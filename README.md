@@ -3,7 +3,7 @@ Welcome to the Pig Game – a fun, interactive two-player dice game built using 
 
 In the Pig Game, players take turns to roll a dice. Each dice roll adds to the current score, but if a player rolls a 1, their turn ends and they lose the points accumulated in that round. 😬 Players can also choose to 'Hold' their score, which adds the round total to their global score and passes the turn. The first player to reach 100 points wins the game! 🏆
 
-This project uses vanilla JavaScript for all the logic, along with HTML for structure and CSS for styling. 🎨 The game is fully functional and responsive, so it works well on both desktop and mobile screens. 📱
+This project uses vanilla JavaScript for all the logic, along with HTML for structure and CSS for styling.🎨 The game is fully functional and responsive, so it works well on both desktop and mobile screens. 📱
 
 Some key features of the game include:
 
