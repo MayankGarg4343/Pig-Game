@@ -19,6 +19,6 @@ Some key features of the game include:
 
 If you're learning JavaScript or looking for a fun browser game to play and improve, this is a great place to start. I've also added a clean UI, a modern layout, and used best practices in JavaScript to keep the code readable and beginner-friendly. ✅
 
-You can play the live demo here (add your deployment link), or feel free to fork the repo and try it out locally. If you like the project, don’t forget to ⭐ star it, 🍴 fork it, or contribute your own ideas and improvements!
+You can play the live demo here ((https://pig-game-omega-eight.vercel.app/)), or feel free to fork the repo and try it out locally. If you like the project, don’t forget to ⭐ star it, 🍴 fork it, or contribute your own ideas and improvements!
 
 Built with ❤️ by Mayank Garg. Let’s connect and grow together! 😊
