@@ -1,4 +1,4 @@
-🐷🎮 Pig Game – JavaScript Dice Fun! 🎲
+<h1>🐷🎮 Pig Game – JavaScript Dice Fun! 🎲</h1>
 Welcome to the Pig Game – a fun, interactive two-player dice game built using HTML, CSS, and JavaScript! 🎉 This project is part of my learning journey to master JavaScript fundamentals, especially working with the DOM, event listeners, and game logic. It's a simple yet addictive game where players compete to reach 100 points first. 🚀
 
 In the Pig Game, players take turns to roll a dice. Each dice roll adds to the current score, but if a player rolls a 1, their turn ends and they lose the points accumulated in that round. 😬 Players can also choose to 'Hold' their score, which adds the round total to their global score and passes the turn. The first player to reach 100 points wins the game! 🏆
